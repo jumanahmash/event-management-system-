@@ -21,6 +21,8 @@ Download the project files to your computer
 
 Open the project in your IDE (Eclipse, IntelliJ IDEA, or NetBeans)
 
+owned by :jumanah almashharawi ,shaima kasim , fatma mohammed
+
 Set EventManagementGUI.java as the main class
 
 Click Run to start the program
