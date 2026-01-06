@@ -25,5 +25,7 @@ Set EventManagementGUI.java as the main class
 
 Click Run to start the program
 
+## view our report , hope you like it !!
+
 
 owned by :jumanah almashharawi ,shaima kasim , fatma mohammed
