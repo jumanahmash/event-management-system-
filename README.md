@@ -17,8 +17,10 @@ A Java-based event management system with a Swing GUI, file persistence, and cus
 - OOP Principles
 
 ## 📦 Installation & Run
-```bash
-git clone https://github.com/your-username/Event-Management-System.git
-cd Event-Management-System
-javac src/*.java
-java src/Main
+Download the project files to your computer
+
+Open the project in your IDE (Eclipse, IntelliJ IDEA, or NetBeans)
+
+Set EventManagementGUI.java as the main class
+
+Click Run to start the program
