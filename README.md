@@ -18,8 +18,12 @@ A Java-based event management system with a Swing GUI, file persistence, and cus
 
 ## 📦 Installation & Run
 Download the project files to your computer
+
 Open the project in your IDE (Eclipse, IntelliJ IDEA, or NetBeans)
+
 Set EventManagementGUI.java as the main class
+
 Click Run to start the program
+
 
 owned by :jumanah almashharawi ,shaima kasim , fatma mohammed
